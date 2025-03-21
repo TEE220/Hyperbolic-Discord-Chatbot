@@ -16,14 +16,15 @@ ensure to enable "bot" and "application.command" under OAuth2 URL Generator
 -Hyperbolic API base url: BASE_URL=https://api.hyperbolic.xyz/v1
 
 
+### 🛠 Installation
 
+1️⃣ Clone the repository:
 
-🛠️ Installation
-
-1️⃣ Clone the Repository
-bash
+```bash
 git clone https://github.com/TEE220/Hyperbolic-Discord-Chatbot.git
 cd Hyperbolic-Discord-Chatbot
+
+
 2️⃣ Install Dependencies
 bash
 npm install
