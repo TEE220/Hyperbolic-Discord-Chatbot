@@ -22,7 +22,7 @@ ensure to enable "bot" and "application.command" under OAuth2 URL Generator
 ## 🛠 Installation  
 
 
-**1️⃣ Clone the repository: 
+**1️⃣ Clone the repository:** 
 
 ``` bash
 git clone https://github.com/TEE220/Hyperbolic-Discord-Chatbot.git
@@ -93,7 +93,7 @@ Screenshots of me trying the bot out:
 ![image](https://github.com/user-attachments/assets/cd427d95-544c-4d03-95b5-faf1ab0eeb53)
 
 
-##⚠️ **NOTE**
+## ⚠️ **NOTE**
 
 Please, this is a rough tryout; be careful to reset your API keys. 
 I have no responsibility on that end; I'm not an expert at this.
