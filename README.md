@@ -93,6 +93,11 @@ Screenshots of me trying the bot out:
 ![image](https://github.com/user-attachments/assets/cd427d95-544c-4d03-95b5-faf1ab0eeb53)
 
 
+If possibly you don't get how to run it, or you may just like to try mine out.
+
+you can add it from this link: https://discord.com/oauth2/authorize?client_id=1352038958220972083
+
+
 ## ⚠️ **NOTE**
 
 Please, this is a rough tryout; be careful to reset your API keys. 
