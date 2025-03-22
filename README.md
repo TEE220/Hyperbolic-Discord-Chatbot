@@ -4,6 +4,9 @@ This repository contains a step-by-step guide to help guide you on how you can u
 
 With a VPS or Gitpod, you will be able to run this with ease. I've backtested it to see it's easy to follow.
 
+However, if Gitpod closes, the bot will go offline. Therefore, it is preferable to use a VPS.
+
+
 ## What is Hyperbolic?
 
 Hyperbolic is an AI cloud platform providing access to affordable, scalable GPU, and AI services.
