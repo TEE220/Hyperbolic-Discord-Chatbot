@@ -95,8 +95,7 @@ Screenshots of me trying the bot out:
 
 If possibly you don't get how to run it, or you may just like to try mine out.
 
-you can add it from this link: https://discord.com/oauth2/authorize?client_id=1352038958220972083
-
+you can add it from this link: https://discord.com/oauth2/authorize?client_id=1352038958220972083&permissions=377957218304&integration_type=0&scope=bot
 
 ## ⚠️ **NOTE**
 
